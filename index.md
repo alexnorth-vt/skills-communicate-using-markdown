@@ -6,3 +6,6 @@
 ``` javascript
 var wad = "wadjawm";
 ```
+
+- [ ] list
+- [x] awd
